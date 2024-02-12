@@ -6,10 +6,12 @@ body{
     font-family: 'Outfit';
   
 }
-nav{
+#nav-bar{
     background: linear-gradient(90deg, rgba(66,15,159,1) 5%, rgba(111,14,111,1) 59%);
+    /* background: #810081; */
     border-bottom: 1px solid #810081;
     padding: 0;
+    position: fixed;
 }
 .navbar-contents{
     margin-left: 13rem;
