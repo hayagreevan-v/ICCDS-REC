@@ -9,10 +9,11 @@ body{
 #nav-bar{
     background: linear-gradient(90deg, rgba(66,15,159,1) 5%, rgba(111,14,111,1) 59%);
     /* background: #810081; */
-    border-bottom: 1px solid #810081;
+    border-bottom: 2px solid #810081;
     padding: 0;
     position: fixed;
 }
+
 .navbar-contents{
     margin-left: 13rem;
 }
@@ -50,7 +51,7 @@ pre{
 {
     font-size: 3rem;
     text-align: center;
-    padding-top: 35px;
+    padding-top: 100px;
     line-height: 0.5;
     
     
@@ -174,6 +175,7 @@ span{
 
 #committee{
     /* margin-top: 15rem; */
+    
     font-size: 1.25rem;
     background: rgb(66,15,159);
     background: linear-gradient(90deg, rgba(66,15,159,1) 5%, rgba(111,14,111,1) 59%);
